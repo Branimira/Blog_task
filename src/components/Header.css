@@ -1,0 +1,22 @@
+img {
+  height: 100vh;
+}
+
+#logo {
+  height: 57px;
+  width: 70px;
+  border-radius: 7px;
+}
+
+.header_links {
+  color: white ;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.7em;
+  text-decoration: none;
+  padding: 0.5em;  
+}
+
+.header_links:hover {
+  color: darkcyan;
+}
+

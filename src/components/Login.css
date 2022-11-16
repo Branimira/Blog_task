@@ -1,0 +1,17 @@
+.login {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   align-items: center;
+   padding: 2em;  
+}
+
+#botun {
+   padding: 0.3em;
+   border-color: darkslategrey;
+   background-color: lightgoldenrodyellow;
+   border-radius: 5px;
+}
+
+
+
